@@ -1,0 +1,51 @@
+# Ambientes virtuais
+venv/
+env/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Distribuicao / Packaging
+*.manifest
+*.spec
+
+# Logs e databases
+*.log
+*.sqlite3
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TensorFlow / ML
+logs/
+tensorboard_logs/
+checkpoints/
+*.ckpt
+*.ckpt.*
+
+# Dados temporarios
+tmp/
+temp/
